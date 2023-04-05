@@ -1,0 +1,17 @@
+body {
+  display: grid;
+}
+
+.black {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  color: white;
+}
+
+.white {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  color: black;
+}
